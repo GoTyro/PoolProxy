@@ -6,6 +6,9 @@
 ### 软件界面
 ![image](images/main.png)
 
+### 纯中转模式无任何抽水,实测本地算力697M,下图为矿池算力统计
+![image](images/hash.png)
+
 ### 实测带机400+内存占用不超100M
 ![image](images/worker.jpg)
 ![image](images/cpu.jpg)
