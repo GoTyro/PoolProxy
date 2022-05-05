@@ -17,3 +17,6 @@
 ### 实测带机400+内存占用不超100M
 ![image](images/worker.jpg)
 ![image](images/cpu.jpg)
+
+### 实测同时开启抽水和统一矿机两种模式,0算力损耗
+![image](images/fee.png)
